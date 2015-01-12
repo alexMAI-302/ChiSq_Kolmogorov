@@ -1,0 +1,5 @@
+C:\Users\Alex\Desktop\The Lucky 13 LP\B\K\MODELING\Tests\DistributionFunctions\obj\Debug\DistributionFunctions.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\The Lucky 13 LP\B\K\MODELING\Tests\DistributionFunctions\Bin\Debug\DistributionFunctions.dll
+C:\Users\Alex\Desktop\The Lucky 13 LP\B\K\MODELING\Tests\DistributionFunctions\Bin\Debug\DistributionFunctions.pdb
+C:\Users\Alex\Desktop\The Lucky 13 LP\B\K\MODELING\Tests\DistributionFunctions\obj\Debug\DistributionFunctions.dll
+C:\Users\Alex\Desktop\The Lucky 13 LP\B\K\MODELING\Tests\DistributionFunctions\obj\Debug\DistributionFunctions.pdb

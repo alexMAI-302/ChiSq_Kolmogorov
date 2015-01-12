@@ -1,0 +1,13 @@
+C:\Users\Alex\Desktop\Tests\Tests\bin\Debug\Tests.exe.config
+C:\Users\Alex\Desktop\Tests\Tests\bin\Debug\Tests.exe
+C:\Users\Alex\Desktop\Tests\Tests\bin\Debug\Tests.pdb
+C:\Users\Alex\Desktop\Tests\Tests\obj\Debug\Tests.exe
+C:\Users\Alex\Desktop\Tests\Tests\obj\Debug\Tests.pdb
+C:\Users\Alex\Desktop\The Lucky 13 LP\B\K\MODELING\Tests\Tests\bin\Debug\Tests.exe.config
+C:\Users\Alex\Desktop\The Lucky 13 LP\B\K\MODELING\Tests\Tests\obj\Debug\Tests.exe
+C:\Users\Alex\Desktop\The Lucky 13 LP\B\K\MODELING\Tests\Tests\obj\Debug\Tests.pdb
+C:\Users\Alex\Desktop\The Lucky 13 LP\B\K\MODELING\Tests\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\The Lucky 13 LP\B\K\MODELING\Tests\Tests\bin\Debug\Tests.exe
+C:\Users\Alex\Desktop\The Lucky 13 LP\B\K\MODELING\Tests\Tests\bin\Debug\Tests.pdb
+C:\Users\Alex\Desktop\The Lucky 13 LP\B\K\MODELING\Tests\Tests\bin\Debug\DistributionFunctions.dll
+C:\Users\Alex\Desktop\The Lucky 13 LP\B\K\MODELING\Tests\Tests\bin\Debug\DistributionFunctions.pdb
